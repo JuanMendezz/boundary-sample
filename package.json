@@ -13,16 +13,6 @@
     "build": "webpack --config webpack.prod.js",
     "serve": "npx serve public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iondrimba/threejs-starter.git"
-  },
-  "author": "Ion Drimba Filho",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iondrimba/threejs-starter/issues"
-  },
-  "homepage": "https://github.com/iondrimba/threejs-starter#readme",
   "dependencies": {
     "cannon-es": "^0.20.0",
     "cannon-es-debugger": "^1.0.0",
